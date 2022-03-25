@@ -3,7 +3,7 @@
 <p>E também sou estudante do curso de bacharel e licenciatura em Filosofia, na USP-Universidade de São Paulo desde 2018.</p>
 
 <div align="center">
-  <a href=https://github.com/WillianStephano">
+  <a href="https://github.com/WillianStephano">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willianstephano&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianstephano&layout=compact&langs_count=7&theme=graywhite"/>
   </a>                                                                                                                                                
