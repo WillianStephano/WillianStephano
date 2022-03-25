@@ -1,4 +1,6 @@
 ### Olá, eu sou o Willian Stephano! 😃
+<p>Tenho 22 anos e sou de SP iniciei meus estudos na área de desenvolvimento de forma autodidata em setembro de 2021 nas tecnologias HTML, CSS e JavaScript com o principal objetivo de conquistar uma oportunidade no mercado de trabalho na área de Front-end.<p/>
+<p>E também sou estudante do curso de bacharel e licenciatura em Filosofia, na USP-Universidade de São Paulo desde 2018.</p>
 
 <div align="center">
   <a href=https://github.com/WillianStephano">
@@ -7,8 +9,19 @@
   </a>                                                                                                                                                
 </div>
 
+
+
 ---
 - 💼 Em busca de uma oportunidade como desenvolvedor Front-End
 - 📚 Atualmente estou estudando HTML, CSS e JS
 - 🤔 Caso tenha alguma sugestão de como melhorar algum projeto entre em contato!!
-- 📫 Meu email é: will.stephano@gmail.com
+
+### Contatos:
+
+<div>
+
+<a href="https://www.instagram.com/will_stephano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:will.stephano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/willian-stephano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
