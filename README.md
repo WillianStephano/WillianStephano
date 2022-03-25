@@ -12,9 +12,9 @@
 
 
 ---
-- 💼 Em busca de uma oportunidade como desenvolvedor Front-End
-- 📚 Atualmente estou estudando HTML, CSS e JS
-- 🤔 Caso tenha alguma sugestão de como melhorar algum projeto entre em contato!!
+- 💼 Em busca de uma oportunidade como desenvolvedor Front-End;
+- 📚 Atualmente estou estudando HTML, CSS e JS;
+- 🤔 Caso tenha alguma sugestão de como melhorar algum projeto entre em contato!!;
 
 ### Contatos:
 
