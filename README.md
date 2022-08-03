@@ -13,8 +13,9 @@
 
 
 ---
+- 📘 Cursando Desenvolvimento de Software Multiplataforma - Fatec Cotia;
 - 💼 Em busca de uma oportunidade como desenvolvedor Front-End;
-- 📚 Atualmente estou estudando HTML, CSS e JS;
+- 📚 Atualmente estou estudando HTML, CSS, JS e React;
 - 🤔 Caso tenha alguma sugestão de como melhorar algum projeto entre em contato!!;
 
 ### Contatos:
