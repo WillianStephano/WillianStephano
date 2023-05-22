@@ -1,5 +1,5 @@
 ### Olá, eu sou o Willian Stephano! 😃
-<p>Tenho 22 anos e sou de SP iniciei meus estudos na área de desenvolvimento de forma autodidata em setembro de 2021 nas tecnologias HTML, CSS e JavaScript com o principal objetivo de conquistar uma oportunidade no mercado de trabalho na área de Front-end.<p/>
+<p>Tenho 23 anos e sou de SP iniciei meus estudos na área de desenvolvimento de forma autodidata em setembro de 2021 nas tecnologias HTML, CSS e JavaScript com o principal objetivo de conquistar uma oportunidade no mercado de trabalho na área de desenvolvimento.<p/>
 <p>Em Agosto de 2022 conquistei uma vaga no curso superior na Fatec de Cotia onde atualmente curso Desenvolvimento de Software Multiplataforma com o intuito de aprimorar meus conhecimentos.</p>
 <p>E também fui estudante do curso de bacharel e licenciatura em Filosofia, na USP - Universidade de São Paulo (FFLCH) ate 2021 onde realizei o trancamento do mesmo.</p>
 
@@ -14,8 +14,8 @@
 
 ---
 - 📘 Cursando Desenvolvimento de Software Multiplataforma - Fatec Cotia;
-- 💼 Em busca de uma oportunidade como desenvolvedor Front-End;
-- 📚 Atualmente estou estudando HTML, CSS, JS e React;
+- 💼 Em busca de uma oportunidade como desenvolvedor;
+- 📚 Atualmente estou estudando JS, Java, Angular, React e Spring Boot;
 - 🤔 Caso tenha alguma sugestão de como melhorar algum projeto entre em contato!!;
 
 ### Contatos:
