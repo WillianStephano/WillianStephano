@@ -1,6 +1,6 @@
 ### Olá, eu sou o Willian Stephano! 😃
 <p>Tenho 23 anos e sou de SP iniciei meus estudos na área de desenvolvimento de forma autodidata em setembro de 2021 nas tecnologias HTML, CSS e JavaScript com o principal objetivo de conquistar uma oportunidade no mercado de trabalho na área de desenvolvimento.<p/>
-<p>Em Agosto de 2022 conquistei uma vaga no curso superior na Fatec de Cotia onde atualmente curso Desenvolvimento de Software Multiplataforma com o intuito de aprimorar meus conhecimentos.</p>
+<p>Em Agosto de 2022 conquistei uma vaga no curso superior na Fatec de Cotia onde atualmente curso Desenvolvimento de Software Multiplataforma com o intuito de aprimorar meus conhecimentos. E atualmente trabalho no banco Bradesco em operações de redes</p>
 <p>E também fui estudante do curso de bacharel e licenciatura em Filosofia, na USP - Universidade de São Paulo (FFLCH) ate 2021 onde realizei o trancamento do mesmo.</p>
 
 <div align="center">
