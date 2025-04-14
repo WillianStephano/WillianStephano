@@ -19,17 +19,17 @@ Estudando e Aplicando em Projetos:
 Confira meus principais projetos: [Projetos](https://github.com/WillianStephano?tab=repositories)
 
 - [**Gerador de Provas com IA**](https://github.com/WillianStephano/Gerador-de-Provas-IA)
-**Descrição**: Ferramenta que utiliza inteligência artificial (Gemini) para gerar questões de provas personalizadas com base em um tema inserido pelo usuário. Ideal para professores ou estudantes que desejam praticar ou criar provas.
+**Descrição**: Ferramenta que utiliza inteligência artificial (Gemini) para gerar questões de provas personalizadas com base em um tema inserido pelo usuário. Ideal para professores ou estudantes que desejam praticar ou criar provas.<br>
 **Tecnologias**: Python, Flask, Gemini API, HTML/CSS e JavaScript.
 <br>
 
 - [**Bora Trocar**](https://github.com/BoraTrocar)
-**Descrição**: Plataforma web e mobile para troca de produtos entre usuários (estilo "OLX" para trocas). Inclui sistema de autenticação, chat para negociação e filtros por categoria.
+**Descrição**: Plataforma web e mobile para troca de produtos entre usuários (estilo "OLX" para trocas). Inclui sistema de autenticação, chat para negociação e filtros por categoria.<br>
 **Tecnologias**: Angular, React-native, Firebase, Spring Boot, Docker
  <br>
 
 - [**Algoritmo de Análise de Sentimentos**](https://github.com/WillianStephano/Iniciacao-Cientifica)
-**Descrição**: Script em R que analisa e quantifica as expressoes de sentimento de textos de obras de teatro usando Processamento de Linguagem Natural (PLN). O projeto foi desenvolvido na minha pesquisa de Iniciação Cientifica na Fatec Cotia.
+**Descrição**: Script em R que analisa e quantifica as expressoes de sentimento de textos de obras de teatro usando Processamento de Linguagem Natural (PLN). O projeto foi desenvolvido na minha pesquisa de Iniciação Cientifica na Fatec Cotia.<br>
 **Tecnologias**: R e PLN
 
 #### Objetivo Atual
